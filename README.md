@@ -15,3 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# MusicIo" 
+# Screenshots
+![onboard](https://user-images.githubusercontent.com/40716176/175259065-2adb2e9d-0de0-4ace-86a9-a28d7043e850.jpg)
+![one](https://user-images.githubusercontent.com/40716176/175259108-dca84ff6-7758-4925-96c6-090a4f86c77f.jpg)
+![two](https://user-images.githubusercontent.com/40716176/175259160-cba972aa-3eb1-482e-b084-5358519143b6.jpg)
